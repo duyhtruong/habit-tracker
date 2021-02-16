@@ -58,7 +58,7 @@ h1{
   }
   
   /* Modal Content/Box */
-  .modal-content {
+  .login-modal-content {
     background-color: #fefefe;
     margin: 15% auto; /* 15% from the top and centered */
     padding: 20px;
@@ -80,5 +80,5 @@ h1{
     text-decoration: none;
     cursor: pointer;
   }
-  
+
 /* Modal End */
